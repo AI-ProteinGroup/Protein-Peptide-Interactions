@@ -1,5 +1,5 @@
 # Protein-Peptide-Interactions
-# De Novo Design of Target-Specific Ligands Using BERT-Pretrained Transformer
+# Exploring Protein-Peptide Interactions: Insightsfrom Structural Feature Extraction and Attention Visualization
 
 <center>
 <img src="https://github.com/AI-ProteinGroup/Protein-Peptide-Interactions/blob/main/pdf/Figure%201.pdf"/>
