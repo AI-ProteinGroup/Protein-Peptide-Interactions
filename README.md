@@ -1,13 +1,12 @@
-# Protein-Peptide-Interactions
-# Exploring Protein-Peptide Interactions: Insightsfrom Structural Feature Extraction and Attention Visualization
+# De Novo Design of Target-Specific Ligands Using BERT-Pretrained Transformer
 
 <center>
-<img src="https://github.com/AI-ProteinGroup/Protein-Peptide-Interactions/blob/main/pdf/Figure%201.pdf"/>
+<img src="./pdf/1.png"/>
 
 
 </center>
 
-![](https://github.com/AI-ProteinGroup/Protein-Peptide-Interactions/blob/main/pdf/Figure%201.pdf)
+
 
 ## Requirements
 
@@ -92,27 +91,35 @@ All the above data can be found [here](https://drive.google.com/drive/folders/1o
 
 ## Attention 
 
+
+<img src="./pdf/4f.png"/>
+
+Fig. 4 Visualization and Attention matrix on 4HFZ. L54 forms a hydrogen bond with W23 (yellow line segment), where L57 is physically close to the W53 amino acid (blue) and P27 is physically close to L54 (red).
 <center>
-<img src="./pdf/4f.pdf"/>
-
-Fig. 4 
-
-<img src="./pdf/5ntn.pdf"/>
-
-Fig. 5 
-
-<img src="./pdf/5v.pdf"/>
-
-Fig. 6 
-
+<img src="./pdf/5ntn.png"/>
 </center>
+
+Fig. 5 Visualization and Attention matrix on 5NTN. L504 forms a hydrogen bond with K336 (yellow line segment), where L505 is physically close to K336 amino acid (pink), G506 is physically close to K336 (Burgundy), and Q502 is physically close to Q349 (blue).
+<center>
+<img src="./pdf/5v.png"/>
+</center>
+Fig. 6 Visualization and Attention matrix on 5EIV. G4 creates a hydrogen bond with Y137 (yellow line segment), where A6 is physically close to the
+amino acid Y137 (red)
+
+
 
 ## model performance evaluation
 
 <center>
-<img src="./pdf/Figure 3.png"/>
+
+<img src="./pdf/auc.png"/>
+
+Fig.2 Changes in AUC under Different Similarities of Each Model.
+
+<img src="./pdf/acc.png"/>
 </center>
 
+Fig.4 The relationship between precision and the amount of training data and pocket size.
 ## tode
 
 More details will be given in the future.
