@@ -1,6 +1,0 @@
-PAD_WORD = " "
-BOS_WORD = "<"
-EOS_WORD = ">"
-PAD_INDEX = 0
-BOS_INDEX = 1
-EOS_INDEX = 2
